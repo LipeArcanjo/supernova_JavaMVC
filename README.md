@@ -75,7 +75,9 @@ mvn -Dtest=UsuarioConsumerTest test
 
 ## Capturas de Tela
 
-⚠️ Espaço reservado para imagens da interface web (MVC).
+![img.png](img.png)
+
+![img_1.png](img_1.png)
 
 --- 
 
@@ -85,7 +87,7 @@ mvn -Dtest=UsuarioConsumerTest test
 --- 
 
 ## 🎥 Vídeo Pitch e Demonstração
-⚠️ Link para o vídeo de pitch e demonstração técnica da aplicação.
+ https://youtu.be/7-p5XXRSMgs e https://youtu.be/NGFA6Tmxy94
 
 ----
 
